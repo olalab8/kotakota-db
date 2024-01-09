@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Aerospace and Defence",
+    },
+    {
+        "id": 2,
+        "name": "Automotive",
+    },
+    {
+        "id": 3,
+        "name": "Banking",
+    },
+    {
+        "id": 4,
+        "name": "Building Materials",
+    },
+    {
+        "id": 5,
+        "name": "Chemicals",
+    },
+    {
+        "id": 6,
+        "name": "Consumer Products",
+    },
+    {
+        "id": 7,
+        "name": "Defense",
+    },
+    {
+        "id": 8,
+        "name": "Engineering, Construction, and Operations",
+    },
+    {
+        "id": 9,
+        "name": "Fabricated Metal Products",
+    },
+    {
+        "id": 10,
+        "name": "Forest Products, Furniture, and Textiles",
+    },
+    {
+        "id": 11,
+        "name": "Healthcare",
+    },
+    {
+        "id": 12,
+        "name": "High Tech",
+    },
+    {
+        "id": 13,
+        "name": "Higher Education and Research",
+    },
+    {
+        "id": 14,
+        "name": "Industrial Machinery and Components",
+    },
+    {
+        "id": 15,
+        "name": "Insurance",
+    },
+    {
+        "id": 16,
+        "name": "Life Sciences",
+    },
+    {
+        "id": 17,
+        "name": "Media",
+    },
+    {
+        "id": 18,
+        "name": "Mining",
+    },
+    {
+        "id": 19,
+        "name": "Oil and Gas",
+    },
+    {
+        "id": 20,
+        "name": "Passenger and Cargo Services",
+    },
+    {
+        "id": 21,
+        "name": "Postal",
+    },
+    {
+        "id": 22,
+        "name": "Primary Metals",
+    },
+    {
+        "id": 23,
+        "name": "Professional Services",
+    },
+    {
+        "id": 24,
+        "name": "Public Sector",
+    },
+    {
+        "id": 25,
+        "name": "Retail",
+    },
+    {
+        "id": 26,
+        "name": "Sports and Entertainment",
+    },
+    {
+        "id": 27,
+        "name": "Telecommunications",
+    },
+    {
+        "id": 28,
+        "name": "Transportation (Travel and Logistics)",
+    },
+    {
+        "id": 29,
+        "name": "Utilities",
+    },
+    {
+        "id": 30,
+        "name": "Wholesale Distribution",
+    },
+]
